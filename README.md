@@ -18,6 +18,7 @@
 * [Учебный проект по построению модели машинного обучения для предсказания рейтинга отелей. Соревнование на Kaggle](https://github.com/artem-75/EDA_Feature_Engineering-Competition_on_Kaggle)
 * [Учебный проект. Задача классификации. (предсказание открытия клиентом депозита в банке)](https://github.com/artem-75/Classification-task-deposit-)
 * [Учебный проект. Задача регрессии. (прогнозирование продолжительности поездки на такси в Нью-Йорке)](https://github.com/artem-75/Regression_task_taxi_NY)
+* [Учебный проект. Задача кластеризации. (cегментирование клиентов онлайн-магазина подарков)](https://github.com/artem-75/Clustering-Segmentation-of-customers)
 
 ### 💡 Основные компетенции 💡
 - Инструменты: 
@@ -61,7 +62,8 @@
 * [The task of predicting the biological response (binary classification problem)](https://github.com/artem-75/DS_skillfactory_projects/tree/main/Project_8)
 * [Training project to build a machine learning model for predicting the rating of hotels. Competition on Kaggle.](https://github.com/artem-75/EDA_Feature_Engineering-Competition_on_Kaggle)
 * [Training project. Classification task. (prediction of the client's deposit opening in the bank)](https://github.com/artem-75/Classification-task-deposit-)
-* [Regression task. (prediction of the duration of a taxi ride in New York)](https://github.com/artem-75/Regression_task_taxi_NY)
+* [Training project. Regression task. (prediction of the duration of a taxi ride in New York)](https://github.com/artem-75/Regression_task_taxi_NY)
+* [Training project. Clustering task. (cегментирование клиентов онлайн-магазина подарков)](https://github.com/artem-75/Clustering-Segmentation-of-customers)
 
 ### 💡 Core competencies 💡
 - Tools:
