@@ -19,12 +19,15 @@
 * [Учебный проект. Задача классификации. (предсказание открытия клиентом депозита в банке)](https://github.com/artem-75/Classification-task-deposit-)
 * [Учебный проект. Задача регрессии. (прогнозирование продолжительности поездки на такси в Нью-Йорке)](https://github.com/artem-75/Regression_task_taxi_NY)
 * [Учебный проект. Задача кластеризации. (cегментирование клиентов онлайн-магазина подарков)](https://github.com/artem-75/Clustering-Segmentation-of-customers)
+* [Дипломная работа. Задача классификации.(Оценка занятости помещения на основе многомерных сенсорных узлов)](https://github.com/artem-75/Graduate_work)
 
 ### 💡 Основные компетенции 💡
 - Инструменты: 
     * Python
     * Pandas
     * Scikit-learn
+    * Flask
+    * Docker
 - Skills: 
     * Learnability
     * Communication skills
@@ -36,6 +39,8 @@
 - Изучил вторую часть курса ... - "Подгрузка данных (файлы, web-источники, API). Основы SQL."
 - Изучил третью часть курса ... - "Разведывательный анализ данных. EDA."
 - Изучил четвертую часть курса ... - "Введение в машинное обучение."
+- Изучил пятую часть курса ... - "Математика в ML."
+- Изучил пятую часть курса ... - "ML в бизнесе."
 - Параллельно изучаю Git, VS code, Jupyter Notebook, Markdown, Google Colab.
 
 ### 🙌🏻 Свяжись со мной
@@ -64,12 +69,15 @@
 * [Training project. Classification task. (prediction of the client's deposit opening in the bank)](https://github.com/artem-75/Classification-task-deposit-)
 * [Training project. Regression task. (prediction of the duration of a taxi ride in New York)](https://github.com/artem-75/Regression_task_taxi_NY)
 * [Training project. Clustering task. (cегментирование клиентов онлайн-магазина подарков)](https://github.com/artem-75/Clustering-Segmentation-of-customers)
+* [Graduate work. Classification task. (Based Occupancy Estimation Using Multivariate Sensor Nodes)](https://github.com/artem-75/Graduate_work)
 
 ### 💡 Core competencies 💡
 - Tools:
   * Python
   * Pandas
   * Scikit-learn
+  * Flask
+  * Docker
 - Skills:
   * Learnability
   * Communication skills
@@ -81,6 +89,8 @@
 - Studied the second part of the course ... - "Uploading data (files, web sources, API). Basics of SQL."
 - Studied the third part of the course... - "Intelligence data analysis. EDA."
 - Studied the fourth part of the course ... - "Introduction to Machine Learning."
+- Studied the fifth part of the course ... - "Mathematics in ML."
+- Studied the fifth part of the course... - "ML in business."
 - In parallel, I study Git, VS code, Jupiter Notebook, Markdown, Google Colab.
 
 ### 🙌🏻 Contact me
