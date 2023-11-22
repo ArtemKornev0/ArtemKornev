@@ -24,10 +24,15 @@
 ### 💡 Основные компетенции 💡
 - Инструменты: 
     * Python
+    * NumPy
+    * SciPy
     * Pandas
+    * Matpotlib, Seaborn, Plotly
     * Scikit-learn
+    * TensorFlow + Keras
     * Flask
     * Docker
+    * SQL
 - Skills: 
     * Learnability
     * Communication skills
@@ -41,6 +46,8 @@
 - Изучил четвертую часть курса ... - "Введение в машинное обучение."
 - Изучил пятую часть курса ... - "Математика в ML."
 - Изучил пятую часть курса ... - "ML в бизнесе."
+- Изучил дополнительные части курса ... - "Введение в Deep Learning." и "Введение в Data Engineering."
+- Выполнил дипломный проект.
 - Параллельно изучаю Git, VS code, Jupyter Notebook, Markdown, Google Colab.
 
 ### 🙌🏻 Свяжись со мной
@@ -74,10 +81,15 @@
 ### 💡 Core competencies 💡
 - Tools:
   * Python
+  * NumPy
+  * SciPy
   * Pandas
+  * Matpotlib, Seaborn, Plotly
   * Scikit-learn
+  * TensorFlow + Keras
   * Flask
   * Docker
+  * SQL
 - Skills:
   * Learnability
   * Communication skills
@@ -91,6 +103,8 @@
 - Studied the fourth part of the course ... - "Introduction to Machine Learning."
 - Studied the fifth part of the course ... - "Mathematics in ML."
 - Studied the fifth part of the course... - "ML in business."
+- Studied the fifth part of the course... - "Introduction to  Deep Learning." & "Introduction to  Data Engineering."
+- Completed the graduation project.
 - In parallel, I study Git, VS code, Jupiter Notebook, Markdown, Google Colab.
 
 ### 🙌🏻 Contact me
