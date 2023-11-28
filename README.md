@@ -4,7 +4,7 @@
 * 🎓 Образование:
   - Саратовский Государственный Университет, Механико-математический факультет, 1991 - 1996 гг.
   - Профессиональная переподготовка по нескольким специальностям, 1996-1999, 2007-2008, 2019 гг.
-* 💾 Изучаю Data Science с ноября 2022 г.
+* 💾 Окончил курс data science в skillfactory 2022-2023 гг.
 
 ### 📚 Проекты 📚
 
@@ -39,16 +39,16 @@
     * Teamwork
     * Responsibility
 
-### ⚡️ В настоящее время ⚡️
-- Изучил первую часть курса Data Science в Skillfactory - "Знакомство с данными. Python для анализа данных."
-- Изучил вторую часть курса ... - "Подгрузка данных (файлы, web-источники, API). Основы SQL."
-- Изучил третью часть курса ... - "Разведывательный анализ данных. EDA."
-- Изучил четвертую часть курса ... - "Введение в машинное обучение."
-- Изучил пятую часть курса ... - "Математика в ML."
-- Изучил пятую часть курса ... - "ML в бизнесе."
-- Изучил дополнительные части курса ... - "Введение в Deep Learning." и "Введение в Data Engineering."
-- Выполнил дипломный проект.
-- Параллельно изучаю Git, VS code, Jupyter Notebook, Markdown, Google Colab.
+### ⚡️ Программа курса Data Science ⚡️
+- "Знакомство с данными. Python для анализа данных."
+- "Подгрузка данных (файлы, web-источники, API). Основы SQL."
+- "Разведывательный анализ данных. EDA."
+- "Введение в машинное обучение."
+- "Математика в ML."
+- "ML в бизнесе."
+- "Введение в Deep Learning." и "Введение в Data Engineering."
+- Дипломный проект.
+- Параллельно изучал Git, VS code, Jupyter Notebook, Markdown, Google Colab.
 
 ### 🙌🏻 Свяжись со мной
 - [Telegram](https://t.me/Artem1975)
@@ -61,7 +61,7 @@
 * 🎓 Education:
   - Saratov State University, Faculty of Mechanics and Mathematics, 1991 - 1996.
   - Professional retraining in several specialties, 1996-1999, 2007-2008, 2019.
-* 💾 I have been studying Data Science since November 2022.
+* 💾 Graduated from the data science course at skillfactory 2022-2023.
 
 ### 📚 Projects 📚
 
@@ -96,16 +96,16 @@
   * Teamwork
   * Responsibility
 
-### ⚡️ Currently ⚡️
-- Studied the first part of the Data Science course at Skillfactory - "Familiarity with data. Python for data analysis."
-- Studied the second part of the course ... - "Uploading data (files, web sources, API). Basics of SQL."
-- Studied the third part of the course... - "Intelligence data analysis. EDA."
-- Studied the fourth part of the course ... - "Introduction to Machine Learning."
-- Studied the fifth part of the course ... - "Mathematics in ML."
-- Studied the fifth part of the course... - "ML in business."
-- Studied the fifth part of the course... - "Introduction to  Deep Learning." & "Introduction to  Data Engineering."
-- Completed the graduation project.
-- In parallel, I study Git, VS code, Jupiter Notebook, Markdown, Google Colab.
+### ⚡️ Data Science course program ⚡️
+- "Familiarity with data. Python for data analysis."
+- "Uploading data (files, web sources, API). Basics of SQL."
+- "Intelligence data analysis. EDA."
+- "Introduction to Machine Learning."
+- "Mathematics in ML."
+- "ML in business."
+- "Introduction to  Deep Learning." & "Introduction to  Data Engineering."
+- Graduation project.
+- In parallel, I studed Git, VS code, Jupiter Notebook, Markdown, Google Colab.
 
 ### 🙌🏻 Contact me
 - [Telegram](https://t.me/Artem1975)
