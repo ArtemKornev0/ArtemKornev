@@ -4,30 +4,30 @@
 * 🎓 Образование:
   - Саратовский Государственный Университет, Механико-математический факультет, 1991 - 1996 гг.
   - Профессиональная переподготовка по нескольким специальностям, 1996-1999, 2007-2008, 2019 гг.
-* 💾 Окончил курс data science в skillfactory 2022-2023 гг.
+* 💾 Курс Data Science в Skillfactory 2022-2023 гг.
 
 ### 📚 Проекты 📚
 
-* [Учебный проект по очистке данных](https://github.com/artem-75/DataCleaning)
-* [Учебный проект по визуализации анализа оттока клиентов банка](https://github.com/artem-75/DS_skillfactory_projects/tree/main/Project_2)
-* [Анализ данных (анализ вакансий из HeadHunter)](https://github.com/artem-75/Data_analysis-Job_analysis)
-* [Подготовка данных (анализ резюме из HeadHunter)](https://github.com/artem-75/Data_preparation-resume_analysis)
-* [Анализ результатов A/B-тестирования.](https://github.com/artem-75/DS_skillfactory_projects/tree/main/Project_5)
-* [Задача классификации на примере предсказания оттока клиентов банка.](https://github.com/artem-75/DS_skillfactory_projects/tree/main/Project_6)
-* [Задача прогнозирования биологического ответа (задача бинарной классификации)](https://github.com/artem-75/DS_skillfactory_projects/tree/main/Project_8)
-* [Учебный проект по построению модели машинного обучения для предсказания рейтинга отелей. Соревнование на Kaggle](https://github.com/artem-75/EDA_Feature_Engineering-Competition_on_Kaggle)
-* [Учебный проект. Задача классификации. (предсказание открытия клиентом депозита в банке)](https://github.com/artem-75/Classification-task-deposit-)
-* [Учебный проект. Задача регрессии. (прогнозирование продолжительности поездки на такси в Нью-Йорке)](https://github.com/artem-75/Regression_task_taxi_NY)
-* [Учебный проект. Задача кластеризации. (cегментирование клиентов онлайн-магазина подарков)](https://github.com/artem-75/Clustering-Segmentation-of-customers)
-* [Дипломная работа. Задача классификации.(Оценка занятости помещения на основе многомерных сенсорных узлов)](https://github.com/artem-75/Graduate_work)
+* [Очистка данных на Python](https://github.com/ArtemKornev0/DataCleaning)
+* [Визуализация анализа оттока клиентов банка](https://github.com/ArtemKornev0/DS_skillfactory_projects/tree/main/Project_2)
+* [Анализ данных (анализ вакансий из HeadHunter)](https://github.com/ArtemKornev0/Data_analysis-Job_analysis)
+* [Анализ данных (анализ резюме из HeadHunter)](https://github.com/ArtemKornev0/Data_preparation-resume_analysis)
+* [Анализ результатов A/B-тестирования.](https://github.com/ArtemKornev0/DS_skillfactory_projects/tree/main/Project_5)
+* [Задача классификации (Предсказание оттока клиентов банка)](https://github.com/ArtemKornev0/DS_skillfactory_projects/tree/main/Project_6)
+* [Задача бинарной классификации (Прогнозирования биологического ответа)](https://github.com/ArtemKornev0/DS_skillfactory_projects/tree/main/Project_8)
+* [Задача линейной регрессии (Предсказание рейтинга отелей. Соревнование на Kaggle)](https://github.com/ArtemKornev0/EDA_Feature_Engineering-Competition_on_Kaggle)
+* [Задача классификации. (Предсказание открытия клиентом депозита в банке)](https://github.com/ArtemKornev0/Classification-task-deposit-)
+* [Задача регрессии. (Прогнозирование продолжительности поездки на такси в Нью-Йорке)](https://github.com/ArtemKornev0/Regression_task_taxi_NY)
+* [Задача кластеризации. (Сегментирование клиентов онлайн-магазина подарков)](https://github.com/ArtemKornev0/Clustering-Segmentation-of-customers)
+* [Задача классификации.(Оценка занятости помещения на основе многомерных сенсорных узлов)]([https://github.com/ArtemKornev0/Graduate_work](https://github.com/ArtemKornev0/Classification-task.-Based-Occupancy-Estimation-Using-Multivariate-Sensor-Nodes-))
 
 ### 💡 Основные компетенции 💡
 - Инструменты: 
     * Python
     * NumPy
-    * SciPy
     * Pandas
     * Matpotlib, Seaborn, Plotly
+    * SciPy
     * Scikit-learn
     * TensorFlow + Keras
     * Flask
@@ -39,19 +39,8 @@
     * Teamwork
     * Responsibility
 
-### ⚡️ Программа курса Data Science ⚡️
-- "Знакомство с данными. Python для анализа данных."
-- "Подгрузка данных (файлы, web-источники, API). Основы SQL."
-- "Разведывательный анализ данных. EDA."
-- "Введение в машинное обучение."
-- "Математика в ML."
-- "ML в бизнесе."
-- "Введение в Deep Learning." и "Введение в Data Engineering."
-- Дипломный проект.
-- Параллельно изучал Git, VS code, Jupyter Notebook, Markdown, Google Colab.
-
 ### 🙌🏻 Свяжись со мной
-- [Telegram](https://t.me/Artem1975)
+- [Telegram](https://t.me/ArtemKornev0)
 
 ---
 
@@ -61,30 +50,30 @@
 * 🎓 Education:
   - Saratov State University, Faculty of Mechanics and Mathematics, 1991 - 1996.
   - Professional retraining in several specialties, 1996-1999, 2007-2008, 2019.
-* 💾 Graduated from the data science course at skillfactory 2022-2023.
+* 💾 The Data Science course at Skillfactory 2022-2023.
 
 ### 📚 Projects 📚
 
-* [Training project on data cleaning](https://github.com/artem-75/DataCleaning )
-* [Training project on visualization of the bank's customer outflow analysis](https://github.com/artem-75/DS_skillfactory_projects/tree/main/Project_2)
-* [Data Analysis (job analysis from HeadHunter)](https://github.com/artem-75/Data_analysis-Job_analysis)
-* [Data preparation (resume analysis from HeadHunter)](https://github.com/artem-75/Data_preparation-resume_analysis)
-* [Analysis of A/B testing results.](https://github.com/artem-75/DS_skillfactory_projects/tree/main/Project_5)
-* [The classification task is based on the example of predicting the outflow of bank customers.](https://github.com/artem-75/DS_skillfactory_projects/tree/main/Project_6)
-* [The task of predicting the biological response (binary classification problem)](https://github.com/artem-75/DS_skillfactory_projects/tree/main/Project_8)
-* [Training project to build a machine learning model for predicting the rating of hotels. Competition on Kaggle.](https://github.com/artem-75/EDA_Feature_Engineering-Competition_on_Kaggle)
-* [Training project. Classification task. (prediction of the client's deposit opening in the bank)](https://github.com/artem-75/Classification-task-deposit-)
-* [Training project. Regression task. (prediction of the duration of a taxi ride in New York)](https://github.com/artem-75/Regression_task_taxi_NY)
-* [Training project. Clustering task. (cегментирование клиентов онлайн-магазина подарков)](https://github.com/artem-75/Clustering-Segmentation-of-customers)
-* [Graduate work. Classification task. (Based Occupancy Estimation Using Multivariate Sensor Nodes)](https://github.com/artem-75/Graduate_work)
+* [Python Data Cleanup](https://github.com/ArtemKornev0/DataCleaning )
+* [Visualization of the analysis of the outflow of bank customers](https://github.com/ArtemKornev0/DS_skillfactory_projects/tree/main/Project_2 )
+* [Data Analysis (job analysis from HeadHunter)](https://github.com/ArtemKornev0/Data_analysis-Job_analysis )
+* [Data analysis (resume analysis from HeadHunter)](https://github.com/ArtemKornev0/Data_preparation-resume_analysis )
+* [Analysis of the results of A/B testing.](https://github.com/ArtemKornev0/DS_skillfactory_projects/tree/main/Project_5)
+* [Classification task (Prediction of outflow of bank customers)](https://github.com/ArtemKornev0/DS_skillfactory_projects/tree/main/Project_6 )
+* [The task of binary classification (Prediction of biological response)](https://github.com/ArtemKornev0/DS_skillfactory_projects/tree/main/Project_8 )
+* [Linear regression task (Predicting the rating of hotels. Competition on Kaggle)](https://github.com/ArtemKornev0/EDA_Feature_Engineering-Competition_on_Kaggle )
+* [Classification task. (Prediction of the client's opening of a deposit in the bank)](https://github.com/ArtemKornev0/Classification-task-deposit -)
+* [Regression task. (Forecasting the duration of a taxi ride in New York)](https://github.com/ArtemKornev0/Regression_task_taxi_NY )
+* [Clustering task. (Segmentation of online gift shop customers)](https://github.com/ArtemKornev0/Clustering-Segmentation-of-customers)
+* [Classification task.(Assessment of room occupancy based on multidimensional sensor nodes)]([https://github.com/ArtemKornev0/Graduate_work](https://github.com/ArtemKornev0/Classification-task.-Based-Occupancy-Estimation-Using-Multivariate-Sensor-Nodes-))
 
 ### 💡 Core competencies 💡
 - Tools:
   * Python
   * NumPy
-  * SciPy
   * Pandas
   * Matpotlib, Seaborn, Plotly
+  * SciPy
   * Scikit-learn
   * TensorFlow + Keras
   * Flask
@@ -96,16 +85,5 @@
   * Teamwork
   * Responsibility
 
-### ⚡️ Data Science course program ⚡️
-- "Familiarity with data. Python for data analysis."
-- "Uploading data (files, web sources, API). Basics of SQL."
-- "Intelligence data analysis. EDA."
-- "Introduction to Machine Learning."
-- "Mathematics in ML."
-- "ML in business."
-- "Introduction to  Deep Learning." & "Introduction to  Data Engineering."
-- Graduation project.
-- In parallel, I studed Git, VS code, Jupiter Notebook, Markdown, Google Colab.
-
 ### 🙌🏻 Contact me
-- [Telegram](https://t.me/Artem1975)
+- [Telegram](https://t.me/ArtemKornev0)
