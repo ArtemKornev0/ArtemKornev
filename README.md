@@ -19,7 +19,7 @@
 * [Задача классификации. (Предсказание открытия клиентом депозита в банке)](https://github.com/ArtemKornev0/Classification-task-deposit-)
 * [Задача регрессии. (Прогнозирование продолжительности поездки на такси в Нью-Йорке)](https://github.com/ArtemKornev0/Regression_task_taxi_NY)
 * [Задача кластеризации. (Сегментирование клиентов онлайн-магазина подарков)](https://github.com/ArtemKornev0/Clustering-Segmentation-of-customers)
-* [Задача классификации.(Оценка занятости помещения на основе многомерных сенсорных узлов)]([https://github.com/ArtemKornev0/Graduate_work](https://github.com/ArtemKornev0/Classification-task.-Based-Occupancy-Estimation-Using-Multivariate-Sensor-Nodes-))
+* [Задача классификации.(Оценка занятости помещения на основе многомерных сенсорных узлов)](https://github.com/ArtemKornev0/Classification-task.-Based-Occupancy-Estimation-Using-Multivariate-Sensor-Nodes-)
 
 ### 💡 Основные компетенции 💡
 - Инструменты: 
@@ -62,10 +62,10 @@
 * [Classification task (Prediction of outflow of bank customers)](https://github.com/ArtemKornev0/DS_skillfactory_projects/tree/main/Project_6 )
 * [The task of binary classification (Prediction of biological response)](https://github.com/ArtemKornev0/DS_skillfactory_projects/tree/main/Project_8 )
 * [Linear regression task (Predicting the rating of hotels. Competition on Kaggle)](https://github.com/ArtemKornev0/EDA_Feature_Engineering-Competition_on_Kaggle )
-* [Classification task. (Prediction of the client's opening of a deposit in the bank)](https://github.com/ArtemKornev0/Classification-task-deposit -)
+* [Classification task. (Prediction of the client's opening of a deposit in the bank)](https://github.com/ArtemKornev0/Classification-task-deposit-)
 * [Regression task. (Forecasting the duration of a taxi ride in New York)](https://github.com/ArtemKornev0/Regression_task_taxi_NY )
 * [Clustering task. (Segmentation of online gift shop customers)](https://github.com/ArtemKornev0/Clustering-Segmentation-of-customers)
-* [Classification task.(Assessment of room occupancy based on multidimensional sensor nodes)]([https://github.com/ArtemKornev0/Graduate_work](https://github.com/ArtemKornev0/Classification-task.-Based-Occupancy-Estimation-Using-Multivariate-Sensor-Nodes-))
+* [Classification task.(Assessment of room occupancy based on multidimensional sensor nodes)](https://github.com/ArtemKornev0/Classification-task.-Based-Occupancy-Estimation-Using-Multivariate-Sensor-Nodes-))
 
 ### 💡 Core competencies 💡
 - Tools:
